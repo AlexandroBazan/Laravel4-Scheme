@@ -5,10 +5,11 @@ Cool color scheme for Laravel Coders in sublime text!!!
 
 ## Screenshots
 
-![Screenshot ](http://s16.postimg.org/6a3i0lzw3/screen.png)
+![Screenshot ](http://s7.postimg.org/ejpfx4x2z/screen.png)
 
 ## AUTOR
 
 **Alexandro Bazán**
 
++ http://alexandrobazan.com
 + http://twitter.com/AlexandroBazan
