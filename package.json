@@ -1,0 +1,22 @@
+{
+        "schema_version": "2.0",
+        "packages": [
+                {
+                        "name": "Laravel4-Scheme",
+                        "description": "Laravel4 ColorSchema for Sublime Text",
+                        "author": "Alexandro Bazán Ladines",
+                        "homepage": "https://github.com/AlexandroBazan/Laravel4-Scheme/",
+                        "details": "https://github.com/AlexandroBazan/Laravel4-Scheme/",
+                        "labels": ["color", "laravel", "schema", "template"],
+                        "releases": [
+                                {
+                                        "sublime_text": "*",
+                                        "platforms": ["windows", "osx", "linux"],
+                                        "version": "1.1.1",
+                                        "url": "https://nodeload.github.com/Medalink/laravel-blade/zip/v1.1.1",
+                                        "date": "2013-04-26 16:43:35"
+                                }
+                        ]
+                }
+        ]
+}
